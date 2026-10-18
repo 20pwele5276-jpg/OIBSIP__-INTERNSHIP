@@ -1,0 +1,9 @@
+{
+    "assistant_name": "Nova",
+    "greeting": "Hello! How can I help you today?",
+    "commands": {
+        "hello": "Hello! How can I help you today?",
+        "who are you": "I am your personal Python voice assistant.",
+        "thank you": "You are welcome!"
+    }
+}
